@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi 👋, I'm Marzan</h1>
 <h3 align="center">Aspiring junior programmer actively pursuing opportunities to elevate my skill set and contribute to cutting-edge projects.</h3>
 <img align="right" alt="coding"width="400"src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abyan-marzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abyan-marzan" height="30" width="40" /></a>
-<a href="https://instagram.com/abyan_marzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abyan_marzan" height="30" width="40" /></a>
+<a href="https://instagram.com/abyan.marzan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abyan_marzan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
