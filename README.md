@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 📫 How to reach me **abyanmarzam10@outlook.com**
+- 📫 How to reach me **abyanmarzan10@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
